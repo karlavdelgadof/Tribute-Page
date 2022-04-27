@@ -36,3 +36,7 @@ div#tribute-data {
             margin: 11px;
             margin-top: 50px;
                 }
+                #tribute-link {
+                    text-decoration: none;
+                    color: black;
+                }
