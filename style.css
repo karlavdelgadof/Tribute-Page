@@ -3,9 +3,13 @@ body {
     margin: 20%;
     text-align: center;
 }
+
+#img-div {
+    display: flex;
+    justify-content: center;
+}
  img {
-            display: inline-block;
-            width: 100%;
+            width: 50%;
      }
      #main
      {
